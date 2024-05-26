@@ -1,5 +1,5 @@
 name: "Podcast Generator"
-author: "Reevan"
+author: "Reevan christopher cutinho"
 description: "Generates a feed for a podcast"
 runs:
   using: "docker"
